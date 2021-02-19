@@ -63,7 +63,7 @@ Here stays the main logic of the charts
 - Scatter
 
 ```
-Here the component logic is imported and the visualtisation is rendered
+Here the component logic is imported and the visualisation is rendered
 ```
 
 ### router
